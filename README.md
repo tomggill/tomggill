@@ -1,16 +1,16 @@
 ## Hi there 👋
+- 🔭 Currently onboarding @GitHub as a Software Engineer
+- 🌱 Currently learning about GitHub codespaces.
+- 😄 Pronouns: He/Him/His
+- 🎲 Hobbies: Weight Lifting 🏋, Rock Climbing 🧗, Reading 📖.
 
-<!--
-**tomggill/tomggill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Books
+---
+#### Currently Reading
+- [Stormlight Archive: Edgedancer](https://www.goodreads.com/book/show/34703445-edgedancer?ac=1&from_search=true&qid=2Aw93KwHRv&rank=1) by Brandon Sanderson
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications?ref=nav_sb_ss_1_14) by Martin Kleppman
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Recently Read
+- [Stormlight Archive: The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings)) by Brandon Sanderson
+- [Stormlight Archive: Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance?ref=nav_sb_ss_1_15) by Brandon Sanderson
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices?ref=nav_sb_ss_1_13) by Sam Newman
