@@ -5,7 +5,6 @@
 - 🎲 Hobbies: Weight Lifting 🏋, Rock Climbing 🧗, Reading 📖.
 
 ## Books
----
 #### Currently Reading
 - [Stormlight Archive: Edgedancer](https://www.goodreads.com/book/show/34703445-edgedancer?ac=1&from_search=true&qid=2Aw93KwHRv&rank=1) by Brandon Sanderson
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications?ref=nav_sb_ss_1_14) by Martin Kleppman
