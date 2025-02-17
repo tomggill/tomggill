@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 Currently onboarding @GitHub as a Software Engineer
 - 🌱 Currently learning about GitHub Codespaces
-- 👀 Looking to: Work on projects using Rust 🦀
 - 😄 Pronouns: He/Him/His
 - 🎲 Hobbies: Weight Lifting 🏋, Rock Climbing 🧗, Reading 📖
 
