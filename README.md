@@ -1,8 +1,8 @@
 ## Hi there 👋
-- 🔭 Currently onboarding @GitHub as a Software Engineer
-- 🌱 Currently learning about GitHub Codespaces
+- 🔭 Software Engineer II @ GitHub
+- 🌱 Working on Codespaces
 - 😄 Pronouns: He/Him/His
-- 🎲 Hobbies: Weight Lifting 🏋, Rock Climbing 🧗, Reading 📖
+- 🎲 Hobbies: Weight Lifting 🏋, Reading 📖
 
 ## Books
 #### Currently Reading
